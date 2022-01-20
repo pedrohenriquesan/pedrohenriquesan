@@ -1,6 +1,6 @@
 ## Opa, tudo certo? 😎
 ### Me chamo Pedro Henrique, seja bem vindo ao meu Github!
-<p> 📚 - Básico da linguagem C. <br> 📚 - Estudando HTML5 e CSS3. </p>
+<p> 📚 - Básico da linguagem C. <br> 📚 - Estudando HTML5, CSS3 e JS. </p>
 
 ---
 <div align="center">
@@ -10,7 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>  
 <br>
 <div>
