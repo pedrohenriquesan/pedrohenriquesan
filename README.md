@@ -1,6 +1,6 @@
 ## Opa, tudo certo? 😎
 ### Me chamo Pedro Henrique, seja bem vindo ao meu Github!
-<p> 📚 - Básico da linguagem C. <br> 📚 - Estudando HTML5, CSS3 e JS. </p>
+<p>📚 - Estudando HTML5, CSS3 e JS. </p>
 
 ---
 <div align="center">
