@@ -1,6 +1,6 @@
 ## Opa, tudo certo? 😎
 ### Me chamo Pedro Henrique, seja bem vindo ao meu Github!
-<p>📚 - Estudando HTML5, CSS3 e JS. </p>
+<p>📚 - Estudando HTML5, CSS3, JS e MySQL. </p>
 
 ---
 <div align="center">
